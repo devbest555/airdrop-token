@@ -1,0 +1,22 @@
+[
+  { 
+    "account": "0x097a3a6ce1d77a11bda1ac40c08fdf9f6202103f", 
+    "amount": 100
+  },
+  {
+    "account": "0xc3Ab493d0d06c700d9daF7Ea58aBBe12038ec474",
+    "amount": 100
+  },
+  {
+    "account": "0xef6fe9c9b351824c96e5c7a478c1e52badcbaee0",
+    "amount": 100
+  },
+  {
+    "account": "0x397aca36ab63dbc1bdafc65a9916dcaee6c94e60",
+    "amount": 100
+  },
+  {
+    "account": "0x08d816526bdc9d077dd685bd9fa49f58a5ab8e48",
+    "amount": 100
+  }
+]
